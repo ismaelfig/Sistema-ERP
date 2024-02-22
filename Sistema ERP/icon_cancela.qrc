@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_cancela">
+    <file>icons/cancelar.png</file>
+  </qresource>
+</RCC>
